@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  demopool
+pool: dem
 
 steps:
 - task: NodeTool@0
