@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  default
+  demopool
 
 steps:
 - task: NodeTool@0
